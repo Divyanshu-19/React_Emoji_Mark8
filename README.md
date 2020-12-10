@@ -1,2 +1,2 @@
 # React_Emoji_Mark8
-Created with CodeSandbox
+Using React created a birthday emoji meaning finder. You can either use input field or click on the emoji to know the meaning
